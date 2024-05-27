@@ -1,4 +1,3 @@
-// David Shifraw ID:205713274
 public class Node<T> {
     private T data;
     private Node<T> next;

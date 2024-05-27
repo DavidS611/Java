@@ -1,5 +1,3 @@
-// David Shifraw ID:205713274
-
 class EmptyListException extends Exception {
     public EmptyListException(String message) {
         super(message);
